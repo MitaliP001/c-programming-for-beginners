@@ -18,4 +18,4 @@ This repository contains a collection of simple C programming projects designed 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/c-programming-for-beginners.git
+   git clone https://github.com/MitaliP001/c-programming-for-beginners.git
